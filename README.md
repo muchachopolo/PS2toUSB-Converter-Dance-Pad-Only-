@@ -10,3 +10,5 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 https://github.com/AlanChatham/UnoJoy
+
+# This project was replaced by the bluettoth version :)
